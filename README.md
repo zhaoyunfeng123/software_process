@@ -1,4 +1,4 @@
-<img src="https://github.com/edu2act/project-training-2015/blob/master/image/logo.png?raw=true">
+<img src="https://github.com/edu2act/project-training-2015/blob/master/image/logo.png?raw=true"></br>
 
 ##项目简介
 **畅轻书屋** 一款在线阅读书籍的APP。</br>
